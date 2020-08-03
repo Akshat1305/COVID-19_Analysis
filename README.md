@@ -7,7 +7,7 @@ Using the data from Johns Hopkins University Center for Systems Science and Engi
 
 ### Prerequisites :eight_spoked_asterisk:
 
-What things you need to install to run the script and how to install them,
+What things you need to install to run the script and how to install them -
 
 ```
 pip
